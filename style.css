@@ -1,0 +1,17 @@
+.header{
+    text-align: center;
+}
+.bud{
+    position: relative;
+    left: 33%;
+    height: 50vh;
+    width: 70vh;
+    text-align: center;
+    background: rgb(221, 220, 220);
+    border-radius: 10px;
+    box-shadow: grey 3px 5px ;
+}
+.bud .addtodo{
+    position: relative;
+    top: 15px;
+}
